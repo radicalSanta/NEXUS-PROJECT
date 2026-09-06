@@ -27,7 +27,7 @@
 // MQTT
 // ============================
 
-#define MQTT_BROKER "10.36.232.114"
+#define MQTT_BROKER "LOCAL-IP"         // run ip route -> 1st ip is gateway, 2nd ip is local ip -> copy and paste local ip here
 #define MQTT_PORT 1883
 #define MQTT_TOPIC "nexus/telemetry"
 
