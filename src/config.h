@@ -20,8 +20,8 @@
 // Wi-Fi
 // ============================
 
-#define WIFI_SSID "moto g54 5g"
-#define WIFI_PASSWORD "SAMRIDH123"
+#define WIFI_SSID "WIFI-Name"
+#define WIFI_PASSWORD "WIFI-Pass"
 
 // ============================
 // MQTT
